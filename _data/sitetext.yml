@@ -88,7 +88,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "서울 금천구 가산디지털2로 169-16 가산하우스디퍼스타 xxx호"
+    text: "경기 화성시 동탄대로 706 728호"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
